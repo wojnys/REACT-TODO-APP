@@ -3,11 +3,12 @@
    
 -h 
     indicate as host
+    
 -p 
     indicates as port
+    
 -U 
     indicates as User
-
 
 ## How to run NODE JS SERVER
 - npm run dev
@@ -17,10 +18,10 @@
 
 # Postgres basic commands
 \l 
-    list all databases
+   list all databases
 \c <db>
-    switch to another db
+   switch to another db
 \dt
-    list all tables in current database# REACT-TODO-APP
+   list all tables in current database# REACT-TODO-APP
 
 
