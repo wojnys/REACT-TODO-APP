@@ -1,3 +1,10 @@
+REACT REAST API TODO-APP 
+I am using 
+- REACT
+- NODE JS (EXPRESS JS)
+- POSTGRESQL
+![image](https://github.com/wojnys/REACT-TODO-APP/assets/77916807/20426276-d88b-4f2d-81f4-0383356f5f71)
+
 ## How to connect to postgresql server with Database on local ?
 - psql -h 127.0.0.1 -p 5431 -U postgres
    
