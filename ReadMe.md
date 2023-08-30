@@ -17,14 +17,10 @@
 - npm start
 
 # Postgres basic commands
-\l 
+\l = list all databases
 
-   list all databases
-\c <db>
+\c <db> = switch to another db
 
-   switch to another db
-\dt
-
-   list all tables in current database# REACT-TODO-APP
+\dt = list all tables in current database# REACT-TODO-APP
 
 
