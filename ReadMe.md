@@ -18,10 +18,13 @@
 
 # Postgres basic commands
 \l 
+
    list all databases
 \c <db>
+
    switch to another db
 \dt
+
    list all tables in current database# REACT-TODO-APP
 
 
