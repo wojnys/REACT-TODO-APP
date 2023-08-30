@@ -1,5 +1,5 @@
-## How to connect to postgres server datbase on local ?
-1. psql -h 127.0.0.1 -p 5431 -U postgres
+## How to connect to postgresql server with Database on local ?
+- psql -h 127.0.0.1 -p 5431 -U postgres
    
 -h 
     indicate as host
