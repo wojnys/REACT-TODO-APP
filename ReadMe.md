@@ -12,10 +12,10 @@ I am using
     indicate as host
     
 -p 
-    indicates as port
+    indicate as port
     
 -U 
-    indicates as User
+    indicate as User
 
 ## How to run NODE JS SERVER
 - npm run dev
